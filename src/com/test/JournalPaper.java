@@ -2,7 +2,7 @@ package com.test;
 
 public class JournalPaper extends WrittenItem{
 	private int pubYear;
-	JournalPaper(){
+	JournalPaper(){//default constructor
 	super();
 	  
 	}
